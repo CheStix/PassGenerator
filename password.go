@@ -1,4 +1,4 @@
-package PassGenerator
+package main
 
 import (
 	"math"
